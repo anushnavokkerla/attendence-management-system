@@ -2,7 +2,7 @@ const regBtn =document.getElementById("reg-button")
 //console.log(regBtn)
 regBtn.addEventListener("click",function(){
     event.preventDefault()
-    const name=document.getElementById("Name").value
+    const name=document.getElementById("name").value
     const email=document.getElementById("Email").value
     const password=document.getElementById("Password").value
     const repassword=document.getElementById("RePassword").value

@@ -1,4 +1,10 @@
 div{
     text-align: center;
-    background-color: lightblue;
+    background-color: pink;
+}
+div{
+    padding-left: 600px;
+}
+div{
+    padding-right: 600px;
 }
