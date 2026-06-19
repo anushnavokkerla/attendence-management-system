@@ -1,10 +1,14 @@
-div{
+/* div{
     text-align: center;
     background-color: pink;
 }
 div{
-    padding-left: 600px;
+    padding-left: 500px;
 }
 div{
-    padding-right: 600px;
-}
+    padding-right: 500px;
+} */
+ .login-container{
+    width: 300px;
+    background-color: pink;
+ }
