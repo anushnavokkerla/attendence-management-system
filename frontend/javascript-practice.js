@@ -271,8 +271,8 @@ const totalpackage = placedstudentsnames.reduce((sum,student) => sum + student.p
 const averagepackage = totalpackage / placedstudents.length
 console.log(averagepackage)
 
-const highestpackage = placedstudentsnames.reduce((max,student) => max>+ student.package ? max :)
-console.log(highestpackage)
+// const highestpackage = placedstudentsnames.reduce((max,student) => max>+ student.package ? max :)
+// console.log(highestpackage)
 
 const morethen101pastudents = placedstudentsnames.filter(student=>student.package > 10)
 console.log(morethen101pastudents)
